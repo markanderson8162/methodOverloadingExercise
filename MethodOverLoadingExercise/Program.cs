@@ -19,13 +19,13 @@ namespace MethodOverLoadingExercise
 		{
 			int sumAB = a + b;
 			string letterS;
-			if(isTrue == true && sumAB > 1)
+			if(isTrue == true && sumAB == 1)
 			{
-				letterS =  "s";
+				letterS =  "";
 			}
 			else
 			{
-				letterS = "";
+				letterS = "s";
 			}
 			return $"{sumAB} dollar{letterS}, which isn't a lot.";
 		}
