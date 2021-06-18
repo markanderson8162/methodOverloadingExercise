@@ -18,16 +18,16 @@ namespace MethodOverLoadingExercise
 		public static string Add(int a, int b, bool isTrue)
 		{
 			int sumAB = a + b;
-			char letterS;
+			string letterS;
 			if(isTrue == true && sumAB > 1)
 			{
-				letterS =  's';
+				letterS =  "s";
 			}
 			else
 			{
-				letterS = ' ';
+				letterS = "";
 			}
-			return $"{sumAB} dollar{letterS}";
+			return $"{sumAB} dollar{letterS}, which isn't a lot.";
 		}
 
 		static void Main(string[] args)

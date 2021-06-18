@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj": {}
+    "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj": {
+    "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj",
         "projectName": "MethodOverLoadingExercise",
-        "projectPath": "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj",
+        "projectPath": "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise.csproj",
         "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverLoadingExercise\\MethodOverLoadingExercise\\obj\\",
+        "outputPath": "C:\\Users\\Mark\\OneDrive\\Desktop\\repos\\methodOverloadingExercise\\MethodOverloadingExercise\\MethodOverLoadingExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
